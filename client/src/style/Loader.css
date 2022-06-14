@@ -1,0 +1,10 @@
+.loader {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader > div {
+  color: #9fa3a7;
+}
